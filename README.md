@@ -1,5 +1,9 @@
 # Proyek Prediksi Harga Rumah Boston
 
+<div align="center">
+  <img src="output.png" width="500" alt="K-Means Clustering Visualization">
+</div>
+
 Proyek ini adalah solusi untuk tantangan "Big Data Challenge" yang berfokus pada analisis dan pembangunan model prediksi harga rumah. Dataset yang digunakan adalah Boston Housing Dataset dan dianalisis menggunakan Python dengan library Pandas, Scikit-learn, Matplotlib, dan Seaborn.
 
 ## Tujuan Proyek
